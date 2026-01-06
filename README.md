@@ -5,18 +5,18 @@ It provides a full stack experience with a frontend app, backend APIs, and a wor
 
 ---
 
-## ✨ Features
-- 🔐 User registration and login
-- 📝 Create, view, update, and delete notes
-- 📄 View detailed note information
-- 🤝 Share notes with other users
-- 👥 Group notes together and browse group collections
-- ⭐ Mark notes as favourites
-- ⏰ Set reminders on notes
+## Features
+- User registration and login
+- Create, view, update, and delete notes
+- View detailed note information
+- Share notes with other users
+- Group notes together and browse group collections
+- Mark notes as favourites
+- Set reminders on notes
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend:** Angular  
 - **Backend:** Node.js (Express APIs)  
 - **Worker Services:** Node.js  
@@ -25,7 +25,7 @@ It provides a full stack experience with a frontend app, backend APIs, and a wor
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - [Docker Desktop](https://www.docker.com/products/docker-desktop) installed and running
